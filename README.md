@@ -30,8 +30,8 @@ ForexFlow fetches **real-time exchange rates** from a third-party REST API. It d
 ## 🔧 Installation & Setup  
 ### **1️⃣ Clone the repository**  
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/manikiran949/Forex-Flow-.git
+cd Forex-Flow-
 ```
 ### **2️⃣ Install dependencies**  
 ```bash
