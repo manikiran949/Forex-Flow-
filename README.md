@@ -4,7 +4,9 @@ ForexFlow is a sleek and efficient currency converter app that allows users to q
 
 ## 📸 Screenshots  
 <img src="https://github.com/user-attachments/assets/ac2597e9-ff72-4d04-95bb-c82742a2f43a" alt="Screenshot 1" width="400"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<br>
+<br>
 <img src="https://github.com/user-attachments/assets/4ef9d454-8176-4c74-b897-6ae19a1d3783" alt="Screenshot 2" width="400"/> 
 
 
