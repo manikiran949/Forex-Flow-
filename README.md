@@ -42,7 +42,7 @@ npm run dev
 ### **4️⃣ Open in Browser**  
 Once the server is running, open
 ```bash
-http://localhost:5173/
+http://localhost:5174/
 ```
 
 ### For any Queries feel free to reach out to manikiranbatchu6@gmail.com
